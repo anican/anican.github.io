@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Anirudh's site"
 title_separator          : "-"
 name                     : &name "Anirudh Canumalla"
 description              : &description "I am a computer science and philosophy student at the University of Washington."
