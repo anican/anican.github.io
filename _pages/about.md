@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student at the University of Washington, where I am studying computer science. I am interested in artificial intelligence, specifically natural language processing, machine learning, and the philosophy of thinking and consciousness.
+I'm an undergraduate student at the University of Washington, where I am studying computer science. My interests lie primarily in  artificial intelligence, language, mathematics, and philosophy though I am always looking to learn new things outside these subjects. 
 
 About this site
 ======
