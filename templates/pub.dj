@@ -1,0 +1,38 @@
+# TITLE
+
+  [AUTHOR][],
+\ [AUTHOR][],
+\ [AUTHOR][]
+
+CONFERENCE (CONF) YEAR
+
+{.photo}
+:::
+  [![TITLE](
+    pubs/YEAR-CONF-SYS/YEAR-CONF-SYS-absimg.png
+  )](
+    pubs/YEAR-CONF-SYS/YEAR-CONF-SYS.pdf
+  )
+:::
+
+{.columns .columns-8rem}
+- [paper](pubs/YEAR-CONF-SYS/YEAR-CONF-SYS.pdf)
+- [code](TODO)
+- [publisher](TODO)
+- [arXiv](TODO)
+- [bib](pubs/YEAR-CONF-SYS/YEAR-CONF-SYS.bib)
+
+
+## Abstract
+
+TODO
+
+## BibTeX
+
+{.bib}
+```
+TODO
+```
+
+[📝 publications index](publications.html)
+

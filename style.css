@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap');
+
+html {
+  font-family: 'Assistant', sans-serif;
+}
+
+@media (min-width: 250px) {
+  html {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 500px) {
+  html {
+    font-size: 1.0rem;
+  }
+}
+
+@media (min-width: 750px) {
+  html {
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 1000px) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+body {
+  margin: 1rem;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.50rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+p {
+  max-width: 40rem;
+}
+
+blockquote {
+  max-width: 35rem;
+  margin-right: 0;
+}
+
+ul, ol {
+  margin-left: 1rem;
+  padding-left: 1rem;
+}
+
+li {
+  max-width: 39rem;
+  margin: 0.5rem 0;
+}
+
+.monospace {
+  font-family: 'Fira Mono', monospace;
+}
+
+code {
+  font-family: 'Fira Mono', monospace;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.quote {
+  padding: 0;
+  margin: 0;
+  color: #234;
+}
+
+.quote p {
+  padding-left: 1rem;
+}
+
+ul.columns {
+  max-width: 40rem;
+  column-count: auto;
+}
+
+ul.columns li {
+  margin: 0;
+  padding-bottom: 0.25rem;
+}
+
+ul.columns-8rem {
+  column-width: 8rem;
+}
+
+ul.columns-12rem {
+  column-width: 12rem;
+}
+
+ul.columns-16rem {
+  column-width: 16rem;
+}
+
+dd {
+  margin-left: 1.5rem;
+}
+
+hr {
+  max-width: 40rem;
+  margin: 0;
+  margin-top: 2rem;
+}
+
+div.photo {
+  display: flex;
+  justify-content: center;
+  max-width: 40rem;
+}
+
+div.photo img {
+  border-radius: 0.25rem!important;
+  width: 100%;
+  max-width: 30rem;
+}
+
+div.photo-narrow img {
+  max-width: 15rem;
+}
+
+/* YouTube embeddings */
+div.photo iframe {
+  width: 35rem;
+  height: 20rem;
+}
+
+div.photo video {
+  width: 100%;
+  max-width: 40rem;
+}
+
+.pubs p {
+  max-width: 100%;
+  line-height: 1.5;
+  margin: 2rem 0;
+}
+
+.bib {
+  overflow: auto;
+}
+
+.bib code {
+  font-size: 0.75rem;
+}
+
+.course-vspace {
+  margin-top: 2rem;
+}
+
+td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.todo, .todo * {
+  display: none;
+}

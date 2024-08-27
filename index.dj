@@ -1,0 +1,38 @@
+# [Ani Canumalla][]
+
+PhD Student ([photo](img/face.jpg)) \
+Department of Computer Science and Engineering\
+University of California, San Diego \ 
+[acanumalla at ucsd dot edu](mailto:acanumalla@ucsd.edu)
+
+_Last updated August 2024_
+
+  I am a second year PhD student in
+    computer science at UCSD, working with [Amy Ousterhout][]
+    on operating systems and networks.
+  Previously, I graduated from 
+    the University of Washington 
+    with my BS/MS, advised by Arvind Krishnamurthy.
+
+## Pre-prints
+
+{.pubs}
+:::
+
+{#2023-arxiv-symphony}
+*[Symphony: Optimized DNN Model Serving using Deferred Batch Scheduling](https://arxiv.org/pdf/2308.07470)*
+\
+  Lequn Chen,
+\ Weixin Deng,
+\ Anirudh Canumalla,
+\ Yu Xin,
+\ Danyang Zhuo,
+\ Matthai Philipose,
+\ Arvind Krishnamurthy 
+\
+Arxiv Pre-print
+:::
+
+
+
+

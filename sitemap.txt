@@ -1,0 +1,2 @@
+https://vcanumalla.github.io/index.html
+https://vcanumalla.github.io/pubs/*/*.pdf

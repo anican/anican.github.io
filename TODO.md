@@ -1,0 +1,2 @@
+- Make a "pub page" for each publication
+- Make a "talk page" for each talk

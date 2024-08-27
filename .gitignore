@@ -1,2 +1,6 @@
 _site/
+node_modules/*
 
+templates/*
+talkmap/*
+templates/*
